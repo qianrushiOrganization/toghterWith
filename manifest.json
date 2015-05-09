@@ -1,0 +1,15 @@
+{
+	"app": {
+	"launch": {
+	"web_url": "http://www.baidu.com/"
+	},
+	"urls": [ "http://www.baidu.com/" ]
+	},
+	"description": "Ming's China Blog",
+	"icons": {
+	"128": "128.png"
+	},
+	"name": "Eye Of Ming",
+	"manifest_version": 2,
+	"version": "1.0"
+}
