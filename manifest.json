@@ -5,11 +5,11 @@
 	},
 	"urls": [ "http://www.baidu.com/" ]
 	},
-	"description": "Ming's China Blog",
+	"description": "toghterWith",
 	"icons": {
 	"128": "128.png"
 	},
-	"name": "Eye Of Ming",
+	"name": "toghterWith",
 	"manifest_version": 2,
 	"version": "1.0"
 }
